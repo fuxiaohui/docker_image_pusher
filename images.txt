@@ -2,3 +2,5 @@ nocodb/nocodb:0.251.1
 eipwork/kuboard:v3.5.2.7
 nacos/nacos-mysql:5.7
 nacos/nacos-server:v2.4.0
+lyzhang1999/frontend:v1
+lyzhang1999/frontend:v2

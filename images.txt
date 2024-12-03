@@ -4,4 +4,4 @@ nacos/nacos-mysql:5.7
 nacos/nacos-server:v2.4.0
 lyzhang1999/frontend:v1
 lyzhang1999/frontend:v2
-aos-preview-app:v8.2.3
+axelor/aos-preview-app:v8.2.3
